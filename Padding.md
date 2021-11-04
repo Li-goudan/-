@@ -18,7 +18,7 @@ $$
 
 2. Zero padding
 
-   **Relationship 2. **For any $i$, $k$ and $p$,
+   **Relationship 2.** For any $i$, $k$ and $p$,
 
 $$
 o = (i − k) + 2p + 1
@@ -30,7 +30,7 @@ $$
 > $$
 > **Full padding**
 >
-> **Relationship 4. **For any $i$ and $k$, and for $p = k − 1$, 
+> **Relationship 4.** For any $i$ and $k$, and for $p = k − 1$, 
 > $$
 > o = i + 2(k − 1) − (k − 1) = i + (k − 1).
 > $$
@@ -47,7 +47,7 @@ $$
 
 2. Zero padding
 
-   **Relationship 6. **For any $i$, $k$ and $p$,
+   **Relationship 6.** For any $i$, $k$ and $p$,
 
 $$
 o = \lfloor \frac{i + 2p − k}{s} \rfloor + 1
